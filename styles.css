@@ -1,0 +1,128 @@
+
+body,html {
+    height: 100%;
+    margin: 0;
+
+    background-color: #fff7eb;
+    }
+
+
+
+ 
+   h3 {text-align: center;
+  font-family: 'Titillium Web', sans-serif;}
+
+    p {font-family: 'Montserrat', sans-serif; 
+text-align: center;}
+
+a {margin-right: 25%;}
+
+.head1 {text-align: center;
+  font-family: 'Titillium Web', sans-serif;
+text-decoration-line: underline;
+}
+
+.TB {
+    height: 10px;
+    width:fit-content;
+    padding:0;
+    margin-top:  -10px;
+    margin-left:50px;
+    text-align: left;
+    border-bottom:solid rgb(209, 185, 28) 2px;}
+
+.aripic {
+   height: 250px;
+    display: block;
+    margin-left: auto;
+    margin-right:auto;
+    margin-top: -250px;
+    width: 200px;
+    
+  
+    
+}
+
+
+
+.head1 {margin-top:50px;
+  font-family: 'Titillium Web', sans-serif;}
+
+.topnav {
+    background-color:#000000;
+    overflow: hidden;
+    
+
+  }
+
+  .topnav a {margin: auto;
+
+    float: left;
+    color: #E5BA73;
+    padding-left: 25px;
+    padding: 10px;
+    text-decoration: none;
+    font-size: 17px;
+    font-family: 'Titillium Web', sans-serif; 
+    }
+
+  
+
+  
+  
+  .name {
+    text-align: center;
+    
+    position: relative;
+    font-family: 'Titillium Web', sans-serif;
+    font-weight: bolder;
+    color: rgb(0, 0, 0);
+    text-shadow: -1px 1px 0 rgb(10, 10, 10),
+    1px 1px 0 #E5BA73,
+    1px -1px 0 #E5BA73,
+    -1px -1px 0 #E5BA73;
+                        
+    
+}
+
+ hr {border-top: dotted 10px #E5BA73 ;
+border-bottom: #E5BA73;
+border-right: #E5BA73;
+border-left:#E5BA73;
+width: 10%;}
+
+
+
+
+
+
+
+
+  
+
+ 
+
+    .strong {font-family: 'Titillium Web', sans-serif;}
+
+    .bg {background-image: url(20221109_102844.jpg) ;
+    height:50%;
+    background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+    
+.bg2 {background-image: url(20221109_102922.jpg) ;
+    height:50%;
+    background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;}
+
+  .logos {
+ display: block;
+ margin-left: auto;
+ margin-right: auto;
+ width: 50%;
+}
+
+  .special {padding: 30px;}
